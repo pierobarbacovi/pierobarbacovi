@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/pierobarbacovi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## About me
-🚀&nbsp; *COO da Jobi - Startup de recrutamento de desenvolvedores (somosjobi.com.br)*
+🚀&nbsp; *COO e fundador da Jobi - Startup de recrutamento de desenvolvedores (somosjobi.com.br)*
 <br/>⚖&nbsp; *Assessor de desembargador no Tribunal de Justiça do Estado do Ceará*
 <br/>🎓&nbsp; *Formado em Direito*
 <br/>🔭&nbsp; *Mudando de carreira*
